@@ -36,6 +36,7 @@ TaskHandle_t taskAuthHandle = nullptr;
 const char AUTHORIZED_UIDS[][UID_MAX_LEN] = {
   "DEADBEEF",
   "A1B2C3D4",
+  "8A06358F",
 };
 const size_t AUTHORIZED_COUNT = sizeof(AUTHORIZED_UIDS) / sizeof(AUTHORIZED_UIDS[0]);
 
