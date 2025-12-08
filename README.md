@@ -1,7 +1,3 @@
-Berikut **README.md revisi** tanpa emoji dan **tanpa Node-RED**, hanya menggunakan **Blynk**.
-
----
-
 # **DualGuard-IoT: Smart Locker with RFID & Distributed ESP32 System**
 
 DualGuard-IoT adalah sistem Smart Locker berbasis IoT yang menggabungkan RFID, ESP32 multiprocessor, MQTT, dan Blynk untuk menghadirkan sistem pengamanan modern yang aman, responsif, serta dapat dipantau secara real time. Proyek ini dikembangkan sebagai Final Project Praktikum Real Time System & IoT – Universitas Indonesia.
