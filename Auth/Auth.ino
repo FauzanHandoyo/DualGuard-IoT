@@ -4,7 +4,6 @@
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
-#include "DHT.h"
 #include <SPI.h>
 #include <MFRC522.h>
 #include <PubSubClient.h>
