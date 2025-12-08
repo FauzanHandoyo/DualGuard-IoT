@@ -45,12 +45,23 @@ QueueHandle_t qUIDs = nullptr;
 TaskHandle_t taskRFIDHandle = nullptr;
 TaskHandle_t taskAuthHandle = nullptr;
 
+<<<<<<< HEAD
 // Preferences storage
 Preferences prefs;
 #define PREF_KEY_AUTH "auth_list"
 #define MAX_AUTH 32
 char authList[MAX_AUTH][UID_MAX_LEN];
 size_t authCount = 0;
+=======
+// ====== Known Authorized UIDs ======
+// Keep uppercase, no spaces, length variable
+const char AUTHORIZED_UIDS[][UID_MAX_LEN] = {
+  "DEADBEEF",
+  "A1B2C3D4",
+  "8A06358F",
+};
+const size_t AUTHORIZED_COUNT = sizeof(AUTHORIZED_UIDS) / sizeof(AUTHORIZED_UIDS[0]);
+>>>>>>> 5f6e09cc79452953b2729e47708cb32acecc984c
 
 // State
 volatile bool adminMode = false;
