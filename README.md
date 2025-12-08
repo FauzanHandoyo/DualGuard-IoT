@@ -92,8 +92,10 @@ Komunikasi antar ESP32 dilakukan melalui MQTT, sementara seluruh status perangka
 ---
 
 ## **Documentation**
+![photo_6176873209374903803_y](https://github.com/user-attachments/assets/66b73461-4479-4463-8e49-837e26834f74)
+![photo_6176873209374903806_x](https://github.com/user-attachments/assets/e0a4aa5f-fc45-4c31-bb73-244c8323b10a)
+![photo_6176873209374903804_x](https://github.com/user-attachments/assets/c7a4a991-4987-43cd-9d58-67c03f6b5614)
 
-(Tambahkan foto rangkaian atau hasil proyek pada bagian ini)
 
 ---
 
